@@ -1,0 +1,28 @@
+# Python字节码
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# 日志文件
+*.log
+function.log
+
+# 编辑器配置
+.vscode/
+.trae/
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 虚拟环境
+.venv/
+venv/
+env/
+ENV/
+
+# Python包
+*.egg-info/
+.installed.cfg
+*.egg
